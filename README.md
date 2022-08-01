@@ -1,5 +1,5 @@
 ### <div align="center">Hi 👋, I'm Igor
-A passionate software engineer for Belgrade,Serbia</div>  
+A passionate software engineer for Belgrade, Serbia</div>  
   
 
 - 🔭 I’m currently working on [team-management-app](https://github.com/IgorIsailovic/team-management-frontend)
