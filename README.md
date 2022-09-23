@@ -6,7 +6,7 @@ A passionate software engineer for Belgrade, Serbia</div>
   
   
 
-- 🌱 I’m currently learning Spring, React, TypeScript, Next.JS  
+- 🌱 I’m currently learning Spring, React...
   
 
 - 👨‍💻 All of my projects are available at https://github.com/IgorIsailovic  
